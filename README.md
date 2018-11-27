@@ -2,9 +2,7 @@
 Download the dat file swiss-bank.dat in the R working directory.
 
 Otherwise set the path in the code by changing the line 
-
 swissbank <- read.csv("~/swiss-bank.dat", sep="")
-
 and putting the address of the location of the downloaded dat file in place of "~/swiss-bank.dat".
 
 Run the code.
