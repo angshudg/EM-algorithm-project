@@ -1,4 +1,4 @@
-##  EM-algorithm-project
+##  EM-algorithm-project readme
 Download the dat file swiss-bank.dat in the R working directory.
 
 Otherwise set the path in the code by changing the line\
