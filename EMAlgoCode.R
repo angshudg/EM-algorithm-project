@@ -1,4 +1,5 @@
 require(mvtnorm)
+set.seed(1)
 
 ######################
 ####IMPORT DATASET####
